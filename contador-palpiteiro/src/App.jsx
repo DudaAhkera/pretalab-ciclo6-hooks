@@ -1,6 +1,6 @@
 import "./App.css";
-import Header from "./components/Header";
-import Contador from "./components/Contador";
+import Header from "./components/Header/Header";
+import Contador from "./components/Contador/Contador";
 
 function App() {
   return (
